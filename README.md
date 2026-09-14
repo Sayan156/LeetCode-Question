@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/Sayan156/LeetCode-Question/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
