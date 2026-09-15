@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sayan156/LeetCode-Question/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
@@ -38,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
