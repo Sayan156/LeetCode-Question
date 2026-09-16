@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayan156/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -63,5 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayan156/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Sayan156/LeetCode-Question/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sayan156/LeetCode-Question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
