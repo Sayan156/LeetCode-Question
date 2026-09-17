@@ -8,32 +8,47 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution implements Comparator<ListNode>{
-    @Override
-    public int compare(ListNode a , ListNode b){
-        return Integer.compare(a.val , b.val);
-    }
+class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        PriorityQueue<ListNode> pq = new PriorityQueue<>(this);
+        ListNode node = new ListNode(-1);
+        ListNode curr = node;
         ListNode t1 = list1;
         ListNode t2 = list2;
-        while(t1 != null ){
-            pq.offer(t1);
+        while(t1 != null && t2 != null){
+            int val1 =  t1.val;
+            int val2 =  t2.val;
+            if(val1 < val2){
+                curr.next = t1;
+                curr = curr.next;
+                t1 = t1.next;
+
+            }
+            else 
+            {
+                curr.next = t2;
+                curr = curr.next;
+                t2 = t2.next;
+
+            }
+            
+        }
+        if(t1 != null)
+        {
+            while(t1 != null){
+            curr.next = t1;
             t1 = t1.next;
+            curr = curr.next;
+            }
         }
-         while(t2 != null ){
-            pq.offer(t2);
+        if(t2 != null)
+        {
+            while(t2 != null){
+            curr.next = t2;
             t2 = t2.next;
+            curr = curr.next;
+            }
         }
-       ListNode dummy = new ListNode(-1);
-       ListNode curr = dummy;
-       while(!pq.isEmpty()){
-        ListNode node = pq.poll();
-        curr.next = node;
-        curr = curr.next;
-       }
-       curr.next = null;
-       return dummy.next;
+        return node.next;
         
     }
 }
