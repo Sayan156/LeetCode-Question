@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayan156/LeetCode-Question/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Sayan156/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayan156/LeetCode-Question/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
