@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan156/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -82,8 +83,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan156/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
