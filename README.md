@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sayan156/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sayan156/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
