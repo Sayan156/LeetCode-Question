@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sayan156/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sayan156/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Sayan156/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Sayan156/LeetCode-Question/tree/master/3498-reverse-degree-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Sayan156/LeetCode-Question/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
