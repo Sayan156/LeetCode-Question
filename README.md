@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sayan156/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sayan156/LeetCode-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
