@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sayan156/LeetCode-Question/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Sayan156/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Sayan156/LeetCode-Question/tree/master/1768-merge-strings-alternately) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Sayan156/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sayan156/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
