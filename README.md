@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sayan156/LeetCode-Question/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Sayan156/LeetCode-Question/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sayan156/LeetCode-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Sayan156/LeetCode-Question/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
