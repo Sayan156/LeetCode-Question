@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sayan156/LeetCode-Question/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sayan156/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sayan156/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sayan156/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sayan156/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Sayan156/LeetCode-Question/tree/master/0605-can-place-flowers) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Sayan156/LeetCode-Question/tree/master/0605-can-place-flowers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
