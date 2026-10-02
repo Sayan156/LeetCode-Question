@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Sayan156/LeetCode-Question/tree/master/0183-customers-who-never-order) |
 | [1164-product-price-at-a-given-date](https://github.com/Sayan156/LeetCode-Question/tree/master/1164-product-price-at-a-given-date) |
 | [1693-daily-leads-and-partners](https://github.com/Sayan156/LeetCode-Question/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Sayan156/LeetCode-Question/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Sliding Window
 |  |
 | ------- |
