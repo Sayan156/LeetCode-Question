@@ -1,7 +1,7 @@
 class Solution {;
     
     int[][] dp;
-    int INF = 1_000_000;
+    int INF = 1000000;
     int solve(int[] coins , int amount , int i){   
         if(i == 0){
             int temp = amount%coins[i];
