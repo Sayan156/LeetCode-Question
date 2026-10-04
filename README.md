@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Sayan156/LeetCode-Question/tree/master/1207-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sayan156/LeetCode-Question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sayan156/LeetCode-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sayan156/LeetCode-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sayan156/LeetCode-Question/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sayan156/LeetCode-Question/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sayan156/LeetCode-Question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sayan156/LeetCode-Question/tree/master/0054-spiral-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sayan156/LeetCode-Question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
