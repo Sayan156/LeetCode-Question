@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sayan156/LeetCode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sayan156/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sayan156/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sayan156/LeetCode-Question/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sayan156/LeetCode-Question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sayan156/LeetCode-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sayan156/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sayan156/LeetCode-Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sayan156/LeetCode-Question/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sayan156/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan156/LeetCode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sayan156/LeetCode-Question/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sayan156/LeetCode-Question/tree/master/0322-coin-change) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sayan156/LeetCode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
