@@ -7,7 +7,6 @@ class Solution {
        int zero = 0;
        boolean flag = false;
      
-        HashMap<Integer,Integer> map = new HashMap<>();
         while(j< nums.length){
             if(nums[j] == 0){
                 zero++;
