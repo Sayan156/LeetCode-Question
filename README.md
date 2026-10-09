@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Sayan156/LeetCode-Question/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sayan156/LeetCode-Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sayan156/LeetCode-Question/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sayan156/LeetCode-Question/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sayan156/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sayan156/LeetCode-Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Sayan156/LeetCode-Question/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sayan156/LeetCode-Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sayan156/LeetCode-Question/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sayan156/LeetCode-Question/tree/master/1657-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sayan156/LeetCode-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0912-sort-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Sayan156/LeetCode-Question/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
