@@ -3,30 +3,34 @@ class Solution {
         int i = 0;
         int j = 0;
         int len = 0;
-      //  int idx = -1;
-      boolean flag = false;
+       int idx = 0;
+       int zero = 0;
+       boolean flag = false;
+     
         HashMap<Integer,Integer> map = new HashMap<>();
         while(j< nums.length){
             if(nums[j] == 0){
-                if(map.containsKey(0)){
-                    int jump_i = map.get(0);
-                    map.remove(0);
-                    i = jump_i + 1;
+                zero++;
+                
+                if(zero > 1){
+                    
+                    i = idx + 1;
 
                 }
-                map.put(0,j);
+                idx = j;
                 flag = true;
 
             }
-            if(! map.containsKey(0))
+            if(zero == 0)
             len = Math.max(len , j - i +1);
             else
             len = Math.max(len , j - i );
             j++;
         }
-        if(!flag)
-        return len - 1;
+       
+       if(flag)
         return len;
+        return len - 1;
         
         
     }
