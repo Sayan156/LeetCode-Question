@@ -16,7 +16,7 @@ class Solution {
                 r1++;
             }
             //for even length
-            if (i <= s.length()) {
+            if (i < s.length()) {
                 int l2 = i;
                 int r2 = i + 1;
                 while (l2 > -1 && r2 < s.length()  && s.charAt(l2) == s.charAt(r2)) {
