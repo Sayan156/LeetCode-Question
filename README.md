@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sayan156/LeetCode-Question/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Sayan156/LeetCode-Question/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sayan156/LeetCode-Question/tree/master/1657-determine-if-two-strings-are-close) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sayan156/LeetCode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sayan156/LeetCode-Question/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Sayan156/LeetCode-Question/tree/master/0322-coin-change) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan156/LeetCode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sayan156/LeetCode-Question/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Sayan156/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sayan156/LeetCode-Question/tree/master/0746-min-cost-climbing-stairs) |
