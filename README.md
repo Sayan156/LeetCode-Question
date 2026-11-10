@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sayan156/LeetCode-Question/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Sayan156/LeetCode-Question/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Sayan156/LeetCode-Question/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Sayan156/LeetCode-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sayan156/LeetCode-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sayan156/LeetCode-Question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Sayan156/LeetCode-Question/tree/master/1768-merge-strings-alternately) |
@@ -255,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sayan156/LeetCode-Question/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Sayan156/LeetCode-Question/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Sayan156/LeetCode-Question/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
