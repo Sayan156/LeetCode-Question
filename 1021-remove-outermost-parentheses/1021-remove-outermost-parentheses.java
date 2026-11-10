@@ -13,6 +13,8 @@ class Solution {
             if( a == b){
                 sb.append(s.substring(i+1 , j));
                 i = j + 1;
+                a = 0;
+                b = 0;
             }
             j++;
             
